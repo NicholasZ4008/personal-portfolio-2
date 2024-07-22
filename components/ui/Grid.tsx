@@ -26,5 +26,4 @@ const Grid = () => {
     </section>
   )
 }
-
 export default Grid
